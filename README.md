@@ -4,7 +4,7 @@ MoodFlicks helps you decide what genre of film to watch tonight. Answer a six-qu
 
 **Live app:** https://moodflicks-flame.vercel.app/
 
-**Test credentials:**
+**Test credentials (note-any personal mail for login will also work):**
 - Email: `test@moodflicks.demo`
 - Password: `Test1234`
 
