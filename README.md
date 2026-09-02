@@ -2,7 +2,7 @@
 
 MoodFlicks helps you decide what genre of film to watch tonight. Answer a six-question mood quiz in one sitting (leaving the page resets it), get a genre recommendation with three starter picks, and save the result to your personal history where you can edit notes or delete entries.
 
-**Live app:** [ADD YOUR VERCEL LINK HERE]
+**Live app:** https://moodflicks-flame.vercel.app/
 
 **Test credentials:**
 - Email: `test@moodflicks.demo`
